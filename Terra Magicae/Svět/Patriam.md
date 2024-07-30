@@ -15,3 +15,11 @@ Frakce:
 Chánát
 Císařství
 Obchodní Republika
+
+Rasy:
+
+Bohové 
+
+Církve:
+
+

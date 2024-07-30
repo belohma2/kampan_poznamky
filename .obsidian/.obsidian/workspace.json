@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "06fcc319ab145b48",
+    "id": "fd51525a682478a7",
     "type": "split",
     "children": [
       {
-        "id": "cc07a88bb2f2af6a",
+        "id": "af0b4d7836ce154e",
         "type": "tabs",
         "children": [
           {
-            "id": "935470a06ec1e58b",
+            "id": "70d9e3e86ed65ba0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terra Magicae/Svět/Portál.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "08989824976c2de1",
+    "id": "a6d2f4b7f030583f",
     "type": "split",
     "children": [
       {
-        "id": "e042325d0084443a",
+        "id": "816267c4d2d2a73c",
         "type": "tabs",
         "children": [
           {
-            "id": "aa749d972813ab9d",
+            "id": "fc0339584926cabc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "3b051480d1eb08ac",
+            "id": "b73d883669d9718f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "453529a7586e07f7",
+            "id": "736f2def434db6c5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "359b33983bdd7ec3",
+    "id": "4b9711f587748772",
     "type": "split",
     "children": [
       {
-        "id": "a22a4336b3d06d6b",
+        "id": "4cf92a7728626a5c",
         "type": "tabs",
         "children": [
           {
-            "id": "4ed6c8b61613551e",
+            "id": "4f540c814e26860c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra Magicae/Svět/Portál.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "ff301ee69de529d5",
+            "id": "3e98ac8f6701274f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terra Magicae/Svět/Portál.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "363d19e24f469551",
+            "id": "496cb6851170d16c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "3cf8b1f55b98808e",
+            "id": "3ca80d337f81c74e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Terra Magicae/Svět/Portál.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,23 +132,12 @@
     "hiddenItems": {
       "switcher:Otevřít rychlé přepínání": false,
       "graph:Otevřít graf": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Otevřít dnešní poznámku": false,
       "templates:Vložit šablonu": false,
-      "command-palette:Otevřít paletu příkazů": false,
-      "canvas:Create new canvas": false
+      "command-palette:Otevřít paletu příkazů": false
     }
   },
-  "active": "935470a06ec1e58b",
-  "lastOpenFiles": [
-    "Designer (4).jpeg",
-    "Designer (3).jpeg",
-    "Terra Magicae/Svět/Svět - Rozcestník.md",
-    "Terra Magicae/Svět/Portál.md",
-    "Terra Magicae/Svět/Terra Magicae.md",
-    "Terra Magicae/Svět/Magie - Zřídla.md",
-    "Terra Magicae/Svět/Patriam.md",
-    "Terra Magicae/Úvod.md",
-    "Terra Magicae/Rozcestník.md",
-    "Terra Magicae/Svět/Magie - Probuzení.md"
-  ]
+  "active": "70d9e3e86ed65ba0",
+  "lastOpenFiles": []
 }

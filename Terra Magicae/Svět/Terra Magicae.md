@@ -24,7 +24,9 @@ Tento typ magie je méně obvyklý než předešlé.
 Alchymie je nejběžnějším zdrojem magie na starém světě. Na Teře je velká bohatost alch. surovin a následně i produktů z nich. Ty jsou také jedním z hlavních vývozních artiklů.
 
  
-
-
-
+### Poznámky
+- Hlavní rozdíl mezi magií starého a nového světa by měl být v tom, že na starém světě limitují kouzlení zdroje a na novém světě jsou limitem znalosti.
+- Ne všechna magie funguje stejně na obou světech - pro stejný efekt může být vyžadován jiný postup/žaříkání/gesto/rituál.
+- Učení se nových kouzel zahrnuje jak zcela nová neznámá kouzla, tak nalézání postupů pro používání již známých kouzel.
+- Nejjednodušším způsobem kouzlení, je využívání magických nástrojů. Ty sami o sobě nemají magický náboj, ale pomáhají uživateli soustředit jeho magii pro požadovaný efekt (magické zbraně - hole, hůlky...).
 

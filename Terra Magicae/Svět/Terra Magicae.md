@@ -1,6 +1,45 @@
-Marek Bělohoubek, 14.7.2024
+Tomáš  Pospíšil, 05.08.2024
 
 Hlavní dějiště kampaně. Neprobádaný svět, naplněný syrovou magií.
+
+## Kolonie
+
+### Místa
+### Frakce
+#### Guvernér a zástupci republiky
+#### Církve
+#### Gilda Alchymistů
+#### Gilda dobrodruhů
+#### Žoldáci
+
+#### Otrokáři
+##### Rudé dlaně
+- Největší skupina obchodníků s otroky na Teře. 
+- Složená převážně z trpaslíků. 
+- Napojená na chánát a jeho vazalské státy,
+- Importuje členy poražených a podrobených národů 
+- Dohoda s Republikou, že otroci budou pouze pohané
+- Výrazné tetování členů skupiny
+- Exportují zajaté členy exotických ras zpět na starý svět
+#### Bankovní domy
+#### Obchodní domy
+#### Zástupci Chánátu
+#### Zástupci Císařství
+
+### Dovoz
+Kolonie pro svůj existenci stále potřebují dovážet celou řadů výrobků a materiálů.
+- Kovy (ocel) a výrobky z nich (nářadí, hřebíky, ...) - kolonije nemá prostředky na průmyslovvé zpracování kovů a dosud nebyly nalezeny ložiska potřebných hornin
+- Běžné jídlo (obilí,  píce, ,..) Protože kolonie stále není plně soběstačná - nemá dostatečnou plochu polí pro pěstování plodin pro stále se zvětšující populaci.
+- Exotické jídlo (víno, oleje, čaj, ....) co se v kolonijích nepěstuje
+- Sklo, tkaniny a další výrobky na které nemají kolonie zatím dostatečnou výrobní kapacitu
+- Skot, ovce, koně, ... 
+- Otroci - levná pracovní síla pro extrakci magických surovin- zejména v podobě dřeva
+### Vývoz
+- Magické suroviny - místní dřeviny, rostliny, minerály ...
+- Magické výrobky - alchymistické produkty
+- Exotické potraviny a rostliny 
+- Exotičtí tvorové
+- Artefakty z prvního období kdy portál fungoval
 
 ## Magie
 ### Magie spojená s přírodou

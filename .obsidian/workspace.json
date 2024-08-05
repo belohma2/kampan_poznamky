@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terra Magicae/Svět/Portál.md",
+                "file": "Terra Magicae/Svět/Terra Magicae.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terra Magicae/Svět/Portál.md",
+                "file": "Terra Magicae/Svět/Terra Magicae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terra Magicae/Svět/Portál.md",
+                "file": "Terra Magicae/Svět/Terra Magicae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terra Magicae/Svět/Portál.md"
+                "file": "Terra Magicae/Svět/Terra Magicae.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "935470a06ec1e58b",
   "lastOpenFiles": [
-    "Designer (4).jpeg",
-    "Designer (3).jpeg",
-    "Terra Magicae/Svět/Svět - Rozcestník.md",
-    "Terra Magicae/Svět/Portál.md",
-    "Terra Magicae/Svět/Terra Magicae.md",
-    "Terra Magicae/Svět/Magie - Zřídla.md",
     "Terra Magicae/Svět/Patriam.md",
-    "Terra Magicae/Úvod.md",
+    "Terra Magicae/Svět/Portál.md",
+    "Terra Magicae/Svět/Svět - Rozcestník.md",
+    "Terra Magicae/Svět/Terra Magicae.md",
     "Terra Magicae/Rozcestník.md",
-    "Terra Magicae/Svět/Magie - Probuzení.md"
+    "Terra Magicae/Úvod.md",
+    "Terra Magicae/Svět/Magie - Probuzení.md",
+    "Terra Magicae/Svět/Magie - Zřídla.md",
+    "Designer (4).jpeg",
+    "Designer (3).jpeg"
   ]
 }

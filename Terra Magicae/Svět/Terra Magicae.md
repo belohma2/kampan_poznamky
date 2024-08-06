@@ -8,6 +8,14 @@ Hlavní dějiště kampaně. Neprobádaný svět, naplněný syrovou magií.
 ### Frakce
 #### Guvernér a zástupci republiky
 #### Církve
+##### Ortodoxní
+###### Řád vycházejícího slunce
+Špitálnický řád - sídlí v budovách původního kláštera vede jedinou nemocnici.
+Řád Sv. Joraha 
+Rytířský řád chránící poutníky, sídlí v opevněné budově v centru města poskytuje ochranu hlavního chrámu. Místní velekněz je členem řádu. Jeho představitelé mají úzké vazby na Císařství. 
+##### Reformované
+###### Rytíři úplňku
+Rytířský řád chránící reformisty před útlakem ortodoxních. Vedou místní reformistický kostel, Vazby na republiku, některé žoldnéřské skupiny. 
 #### Gilda Alchymistů
 #### Gilda dobrodruhů
 #### Žoldáci

@@ -77,3 +77,17 @@ Alchymie je nejběžnějším zdrojem magie na starém světě. Na Teře je velk
 - Učení se nových kouzel zahrnuje jak zcela nová neznámá kouzla, tak nalézání postupů pro používání již známých kouzel.
 - Nejjednodušším způsobem kouzlení, je využívání magických nástrojů. Ty sami o sobě nemají magický náboj, ale pomáhají uživateli soustředit jeho magii pro požadovaný efekt (magické zbraně - hole, hůlky...).
 
+
+# Hrozby
+## Hlad
+- Tradiční plodiny ze starého světa na Teře mají mnohem nižší výnosy - jsou nabádány místními škůdci a nemocemi.
+- Místní plodiny a maso mají pro obyvatele starého světa nižší nutriční hodnotu cca 50%
+  Výjimkou jsou ryby z jezera
+- Po příchodu na Teru se musí zažívání přizpůsobit - v prvních týdnech trpí příchozí zažívacími problémy
+### Nemoci
+Prostředí Tery přináší mnoho nových nemocí - zdroji jsou nepřevařená voda, hmyz, neumyté ovoce, tepelně nezpracované maso...
+Zdroje pitelné vody jsou problém - voda z jezera a řek není bez úpravy pitelná
+Místní obyvatelé jsou překvapivě na nemoci ze starého světa odolní v míře jako tamní populace.
+
+### Modrá horečka
+Nemoc přenášená ekvivalentem komárů a klíšťat - vysoká úmrtnost mezi otroky co nemají dostatečnou výživu. Bez léčení a dostatku jídla a tekutin cca do 14 dni smrtelná.

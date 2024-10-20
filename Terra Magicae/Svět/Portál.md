@@ -7,8 +7,8 @@ O pár okamžiků později se mlha rozplyne stejně rychle, jako se objevila a k
 Cesta zpět na Patriam probíhá stejným způsobem s jedním jedninným rozdílem, přízračná mlha se nad Nisorským jezerem rozprostře v noci, kdy je ubývající měsíc zahalen přesně do poloviny půnoční temnotou.
 
 ### Arosinského jezero
-Je rozsáhlá vodní plocha (velikosti Kaspického moře). Na jejích březích se nachází několik státtních útvarů. Jezero je výtnamnou dopravní tepnou a zdrojem rybolovu. 
-Do jezera se vlévá několik splavných řek, které slouží jako obchodní cesty pro transport zboží (kov, dřevo, látky) ze severních království. Na jezero navazuje Arosinský vodopád a Bílá žeka která odvádí vody do Vnějšího moře.
+Je rozsáhlá vodní plocha (velikosti Kaspického moře). Na jejích březích se nachází několik státních útvarů. Jezero je významnou dopravní tepnou a zdrojem rybolovu. 
+Do jezera se vlévá několik splavných řek, které slouží jako obchodní cesty pro transport zboží (kov, dřevo, látky) ze severních království. Na jezero navazuje Arosinský vodopád a Bílá řeka která odvádí vody do Vnějšího moře.
 
 ![[Designer (3).jpeg]]
 

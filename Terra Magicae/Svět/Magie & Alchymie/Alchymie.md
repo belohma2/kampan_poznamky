@@ -1,0 +1,1 @@
+Alchymie je nejběžnějším zdrojem magie na starém světě. Na Teře je velká bohatost alch. surovin a následně i produktů z nich. Ty jsou také jedním z hlavních vývozních artiklů.

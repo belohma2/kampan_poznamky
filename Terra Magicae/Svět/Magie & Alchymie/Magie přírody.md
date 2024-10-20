@@ -1,0 +1,1 @@
+Magie napojená na přírodu je na Teře běžná, volně přístupná a alespoň omezenou schopnost jí ovládat získá vysoké procento příchozích (5%) a je velmi rozšířená u místních obyvatel.
